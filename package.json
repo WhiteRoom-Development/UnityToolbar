@@ -1,0 +1,11 @@
+{
+  "name" : "com.whiteroom.UnityToolbarExtender",
+  "version" : "1.0.0",
+  "displayName" : "Unity Toolbar Extender",
+  "description" : "A structure that adds many different systems to improve Unity's toolbar.",
+  "unity" : "6000.0",
+  "author" : {
+    "name" : "Ibrahim Albayrak",
+    "url" : "https://ibrahimalbayrak.blog/"
+  }
+}
